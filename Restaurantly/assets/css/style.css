@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .book-a-table a:hover {
-  background: #20ee20;
+  background: #078307;
   color: #fff;
 }
 
@@ -430,7 +430,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav .book-a-table a:hover {
-  background: #20ee20;
+  background: #078307;
   color: #fff;
 }
 
@@ -779,7 +779,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/about-bg.jpg") center center;
+  background: url("../img/hero-bg.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
